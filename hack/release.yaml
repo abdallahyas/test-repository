@@ -4,11 +4,11 @@ NetworkOperator:
 SriovNetworkOperator:
   image: sriov-network-operator
   repository: harbor.mellanox.com/cloud-orchestration
-  version: network-operator-1.5.0-beta3
+  version: network-operator-1.5.0-beta4
 SriovConfigDaemon:
   image: sriov-network-operator-config-daemon
   repository: harbor.mellanox.com/cloud-orchestration
-  version: network-operator-1.5.0-beta3
+  version: network-operator-1.5.0-beta4
 SriovCni:
   image: sriov-cni
   repository: ghcr.io/k8snetworkplumbingwg

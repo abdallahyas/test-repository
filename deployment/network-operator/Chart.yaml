@@ -1,8 +1,8 @@
 apiVersion: v2
 name: network-operator
-version: 1.5.0-beta3
+version: 1.5.0-beta4
 kubeVersion: '>= 1.21.0'
-appVersion: v1.5.0-beta3
+appVersion: v1.5.0-beta4
 description: Nvidia network operator
 type: application
 keywords:
